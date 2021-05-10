@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great Stream",
+      "id": 1
+    },
+    {
+      "title": "hii",
+      "description": "hii",
+      "id": 3
+    },
+    {
+      "title": "hello",
+      "description": "hello",
+      "id": 5
+    },
+    {
+      "title": "programmatic navigation",
+      "description": "navigtion editing using patch",
+      "userId": "110662950646666382881",
+      "id": 7
+    },
+    {
+      "title": "me streaming reuse editing",
+      "description": "watch me refactor components",
+      "id": 8
+    }
+  ]
+}
